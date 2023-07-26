@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile apps
 - 🌱 I’m beginer
 - 💞️ I’m looking to collaborate on studying
-- 📫 You can contact me at direct message instagram @derana_bagus
+- 📫 You can contact me at direct message instagram @bagusentris
 
 <!---
 GallantSonara/GallantSonara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
