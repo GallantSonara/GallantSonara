@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GallantSonara
-- 👀 I’m interested in mobile apps
+- 👀 I’m interested in back-end development
 - 🌱 I’m beginer
 - 💞️ I’m looking to collaborate on studying
 - 📫 You can contact me at direct message instagram @bagusentris
